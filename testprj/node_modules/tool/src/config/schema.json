@@ -1,0 +1,7 @@
+{
+	"porperties": {
+		"port": {
+			"type": "number"
+		}
+	}
+}
